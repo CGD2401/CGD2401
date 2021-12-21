@@ -1,9 +1,9 @@
-# 👋 Hi there <p align="right"> ![](https://visitor-badge.laobi.icu/badge?page_id=CGD2401.CGD2401) [![Github](https://img.shields.io/github/followers/CGD2401?label=Followers&logo=Github)](https://github.com/CGD2401)
+# 👋 Hi there, I'm new here so welcome! <p align="right"> ![](https://visitor-badge.laobi.icu/badge?page_id=CGD2401.CGD2401) [![Github](https://img.shields.io/github/followers/CGD2401?label=Followers&logo=Github)](https://github.com/CGD2401)
  </p>
 
 - 👀 I’m interested in geosciences, data, programming, traveling and much more ✨🧗🌋📸🍀
-- 🌱 I always enjoy learning new cool things!
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I always enjoy learning new things!
+- 💞️ I’m looking to collaborate on cool proyects.
 - 📫 How to reach me ...
 
 
