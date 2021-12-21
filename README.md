@@ -45,15 +45,15 @@
 </p>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/sql-server-logo.png" alt="MS SQL Server" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center">
-<img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" height="40" style="vertical-align:top; margin:4px"> 
 </p>
 
 <p align="center">
