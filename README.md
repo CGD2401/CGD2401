@@ -53,7 +53,7 @@
 
 
 
-### :trophy: My Github Stats:
+### 📈 My Github Stats:
 ![CGD2401 GitHub stats](https://github-readme-stats.vercel.app/api?username=CGD2401&theme=cobalt&show_icons=true)
 
 
