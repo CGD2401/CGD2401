@@ -12,7 +12,7 @@
 
 <br />
 
-##Languages and Tools:
+Languages and Tools:
 <p align="center">
 <img src="https://static.wikia.nocookie.net/logopedia/images/f/f5/ProductPageIcon_gen.png/revision/latest?cb=20200622204732" alt="macOS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
